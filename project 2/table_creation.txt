@@ -1,0 +1,12 @@
+CREATE TABLE Employees_temp (
+    Serial number(4) primary key,
+    First_name VARCHAR2(100),
+    Last_name VARCHAR2(100),
+    Hire_date VARCHAR2(100),
+    Job_title VARCHAR2(100),
+    Salary VARCHAR2(100),
+    Email VARCHAR2(100),
+    Department_name VARCHAR2(100),
+    City VARCHAR2(100)
+);
+yahia momtaz        01274077377
